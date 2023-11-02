@@ -1,0 +1,1 @@
+data_call = Pasamos nuestro archivo a un data frame en pandas
