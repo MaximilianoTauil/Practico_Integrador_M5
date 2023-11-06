@@ -1,1 +1,15 @@
-data_call = Pasamos nuestro archivo a un data frame en pandas
+data_call = Archivo csv convertido a un data frame en pandas  
+duplicados = Almacena los duplicados en los Id de llamadas  
+nuevo_call_id = Nueva columna agregada al dataframe  
+negativos = Almacena los valores negativos de vru_time  
+filas,columnas = Almacena la cantidad de filas y columnas que tiene nuestro dataframe  
+valores_vru = Almacena todos los valores de vru.line  
+duplicados2 = Variable creada para corroborar que no hay duplicados en los Id de llamada en nuestra nueva columna  
+datos_prioridad = Almacena cuantos llamados se hizo por prioridad  
+primeros_servidores = Seleccion de los nombres de los primeros 8 servidores   
+promedio_servidores = Almacena la division para el porcentaje de servicios no entregados  
+cantidad_outliers = Almacenamos la cantidad de valores fuera de rango en los servicios entregados  
+porcentaje_outliers = Division de outliers sobre total de llamadas  
+contador_abandono = Almacena cuantas llamadas fueron abandonadas antes de ingresar a la cola (q_start)  
+porcentaje_abandono = Almacena el porcentaje de abandonos  
+llamadas = Almacena la cantidad de llamadas por mes  
